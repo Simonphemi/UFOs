@@ -1,5 +1,7 @@
 # UFOs Analysis
-An in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time on the UFO website created for Dana.
+An in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time on the UFO website created for Dana. using JavaScript we populated an HTML table with UFO sighting data and, created filter criterias to search through the table in order to find rows that match user input.
+
+
 
 ## Results
 Screen Shot 2021-05-16 at 9.43.53 PM![image](https://user-images.githubusercontent.com/79813670/118421840-eac09400-b68f-11eb-8b67-a42280b01865.png)
